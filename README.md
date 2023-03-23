@@ -1,4 +1,3 @@
-# ENTREGA FINAL DEL PROYECTO
 
 ## ⚡ Proyecto Cars Sales - Comision 32700 - Data Science CoderHouse ⚡
 
