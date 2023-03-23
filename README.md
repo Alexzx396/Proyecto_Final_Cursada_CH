@@ -3,12 +3,13 @@
 
 ## Autores
 
+[Alex Arce](https://github.com/Alexzx396))
 Arturo Ledezma
-Alex Arce
+
 
 Resumen
 
-### 1) Contexto Comercial:
+### Resumen
 Con la escasez de chips para la fabricación de nuevos modelos y en consecuencia abastecer la demanda actual de autos, hemos visto un incremento en la demanda o decisión de compra sobre automóviles usados para la región de Estados Unidos, objeto del presente estudio.
 El comportamiento del mercado de segunda mano podría significar una oportunidad de negocio para nuevos competidores o concesionarios enfocados específicamente a los automóviles de segunda mano, pero también podría significar una alternativa o solución estratégica que las agencias actuales pueden capitalizar en los recambios de autos ( auto nuevo por auto usado o consignación).
 Pero ¿Qué gama de marcas, modelos pueden llegar a ser los más atractivos del mercado y que puedan traducirse en una ventaja competitiva?
