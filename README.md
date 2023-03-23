@@ -1,11 +1,19 @@
-# Proyecto_Final_Cursada_CH
+# ENTREGA FINAL DEL PROYECTO
 
+## ⚡ Proyecto Cars Sales - Comision 32700 - Data Science CoderHouse ⚡
 
 ## Autores
 
 [Alex Arce](https://github.com/Alexzx396)
 
 Arturo Ledezma
+
+
+## Profesores
+
+🔸Profesor: Norberto Leon Gonzales
+
+🔸Tutor: Rogelio Tobar de la Cruz
 
 
 
