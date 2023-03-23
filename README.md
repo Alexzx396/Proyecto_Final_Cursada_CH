@@ -3,13 +3,13 @@
 
 ## Autores
 
-[Alex Arce](https://github.com/Alexzx396))
+[Alex Arce](https://github.com/Alexzx396)
+
 Arturo Ledezma
 
 
-Resumen
 
-### Resumen
+# Resumen
 Con la escasez de chips para la fabricación de nuevos modelos y en consecuencia abastecer la demanda actual de autos, hemos visto un incremento en la demanda o decisión de compra sobre automóviles usados para la región de Estados Unidos, objeto del presente estudio.
 El comportamiento del mercado de segunda mano podría significar una oportunidad de negocio para nuevos competidores o concesionarios enfocados específicamente a los automóviles de segunda mano, pero también podría significar una alternativa o solución estratégica que las agencias actuales pueden capitalizar en los recambios de autos ( auto nuevo por auto usado o consignación).
 Pero ¿Qué gama de marcas, modelos pueden llegar a ser los más atractivos del mercado y que puedan traducirse en una ventaja competitiva?
@@ -35,9 +35,11 @@ Exploratory_Data_Analysis.py: Funciones para el análisis exploratorio de datos
 Modelado.py: Funciones para la generación de modelos para su entrenamiento
 💹 Presentación
 
-TP - Entrega Final - Arturo Ledezma y Alex Arce_19032023l: en formato .pdf y .tex
-📕 Informe
+* :chart: `Presentación`
+    * Presentación Proyecto Final: en formato ``.pdf`` y ``.tex``
 
-Informe Proyecto Final: en formato .pdf y .tex
-CSV: Tablas utilizadas para el informe
-Imágenes: Gráficos utilizados para el informe y la presentación
+* :closed_book: `Informe`
+    * Informe Proyecto Final: en formato ``.pdf`` y ``.tex``
+    * CSV: Tablas utilizadas para el informe
+    * Imágenes: Gráficos utilizados para el informe y la presentación
+
